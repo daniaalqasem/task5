@@ -1,0 +1,18 @@
+.AMAZINGTEAM {
+    color:black;
+  text-align: center;
+   background-color:white;
+}
+.p{
+float: left;
+width: 33.33%;
+background-color: white;
+text-align: center;
+
+}
+
+    
+.clearfix{
+    clear: left;
+   
+}
